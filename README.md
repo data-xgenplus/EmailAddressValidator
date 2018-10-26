@@ -3,9 +3,13 @@ This is used to validate IDN email address. EmailValidator class have a isValid(
   RFC5321,RFC5321,RFC5321,RFC5322,RFC5321,RFC5322,RFC5322,RFC5322,RFC5322,RFC5322,RFC5322,RFC5322,RFC5321,RFC1035
 
 How to use this project. 
+
 step1: download the zip file. 
+
 step2 : extract the zip file.
+
 step3: inport project into eclipse.
+
 step4: open SampleExample.java file and run as normal java application.
 
 
