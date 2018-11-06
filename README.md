@@ -1,6 +1,9 @@
-# Email-Validator-tool For IDN Email Addresses 
-This is used to validate IDN email address. EmailValidator class have a isValid() method which return true and false. If email address is valid, it returns true otherwise it returns false. Email validator is used to validate all the email address that is supporting following rfc.
-  RFC5321,RFC5321,RFC5321,RFC5322,RFC5321,RFC5322,RFC5322,RFC5322,RFC5322,RFC5322,RFC5322,RFC5322,RFC5321,RFC1035
+# Email Address Validator including IDN Email addresses.
+This is used to validate all kind of Email addresses including Internationalized Email Address. EmailValidator class have a isValid() method which return true and false. If email address is valid, it returns true otherwise it returns false. Email validator is used to validate all the email address that is supporting following rfc.
+
+Supported RFC for Email Address validation:
+
+RFC5321,RFC5321,RFC5321,RFC5322,RFC5321,RFC5322,RFC5322,RFC5322,RFC5322,RFC5322,RFC5322,RFC5322,RFC5321,RFC1035
 
 How to use this project. 
 
